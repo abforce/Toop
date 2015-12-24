@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Spaces -->
+    <dimen name="s5">5dp</dimen>
+    <dimen name="s10">10dp</dimen>
+    <dimen name="s15">15dp</dimen>
+    <dimen name="s20">20dp</dimen>
+    
+    <!--Font sizes-->
+    <dimen name="fs18">18sp</dimen>
+    <dimen name="fs20">20sp</dimen>
+	<dimen name="fs25">25sp</dimen>
+    
+</resources>
